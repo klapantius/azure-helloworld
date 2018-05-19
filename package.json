@@ -12,7 +12,7 @@
         "dev": "next",
         "build": "next build",
         "start": "next start",
-        "postinstall": "next build"
+        "postinstall": "npm next build"
     },
     "dependencies": {
         "mongodb": "^3.1.0-beta4",
